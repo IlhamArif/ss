@@ -1,0 +1,9 @@
+#game {
+height: 70%;
+width: 100%;
+border: 1px solid black;
+}
+.btnCont {
+height: 25%;
+width: 50%;
+}
